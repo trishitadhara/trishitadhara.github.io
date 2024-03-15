@@ -471,9 +471,10 @@ a:focus {
 /*******************************/
 /********** About CSS **********/
 /*******************************/
+
 .about {
     position: relative;
-    width: 90%;
+    width: 100%;
     margin: -45px 0 45px 0;
 }
 
@@ -498,7 +499,7 @@ a:focus {
 }
 
 .about .about-content {
-    padding: 10px 10px;
+    padding: 0 60px;
 }
 
 .about .about-text p {
@@ -532,7 +533,7 @@ a:focus {
 
 .about .progress .progress-bar {
     width: 0px;
-    background: #a2a8d3;
+    background: #EF233C;
     border-radius: 10px;
     transition: 2s;
 }
@@ -546,6 +547,8 @@ a:focus {
         padding: 45px 15px 0 15px;
     }
 }
+
+
 
 
 /*******************************/
